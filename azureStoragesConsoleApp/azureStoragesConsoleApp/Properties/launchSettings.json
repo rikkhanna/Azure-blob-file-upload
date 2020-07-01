@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "azureStoragesConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--file C:\\Users\\Rishabh\\Desktop\\root\\orders.csv"
+    }
+  }
+}
